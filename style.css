@@ -1,0 +1,30 @@
+#map{
+    border: 4px solid green;
+
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 15%;
+}
+h1{
+    text-align:center;
+    font-family: 'tahoma';
+}
+p{
+    text-align:center;
+    font-family: 'tahoma';
+}
+.head{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 150px;
+    background-color: green;
+    justify-content: space-between;
+}
+.coco{
+    width: 150px;
+    height: 150px;
+}
+.end{
+    width: 200px;
+}
